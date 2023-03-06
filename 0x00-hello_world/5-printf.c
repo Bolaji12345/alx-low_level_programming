@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point
+ * main - program that prints exactly what's printed
  *
  * Return: Always 0 (Success)
  */
